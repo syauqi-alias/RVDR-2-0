@@ -1,3 +1,3 @@
 # About 
 
-RVDR2
+RVDR2 is a black box for cargo fleet
